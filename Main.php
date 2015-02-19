@@ -2,7 +2,7 @@
 <link rel="stylesheet" type="text/css" href="chat.css">
 <html>
 	<head>
-		<title>Only war campaign</title>
+		<title>Chat Application</title>
 		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
 	</head>
 	<body>
