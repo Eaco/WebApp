@@ -9,7 +9,7 @@ if (mysqli_connect_errno()) {
 $result = mysqli_query($con,"SELECT * FROM Chat");
 
 while($row = mysqli_fetch_array($result)) {
-  echo "<p style='background-color:#666666'>";
+  echo "<p>";
   echo  $row['User'] . "----- " . $row['Message'] ;
   echo "</p>";
 }
