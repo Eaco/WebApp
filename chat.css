@@ -1,6 +1,8 @@
 .chat{
-	font-family:Ariel, Helvetica, sans-serif;
-	
+	height:400px;
+	width:800px;
+	font-family: "Century Gothic", Ariel, Helvetica, sans-serif;
+	overflow-y: hidden;
 }
 .chat:nth-child(odd){
 	background-color:#2E2E2E;
